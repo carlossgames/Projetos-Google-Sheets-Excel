@@ -16,4 +16,4 @@ Projetos desenvolvidos durante meus estudos de Análise de Dados.
 - Análise de informações financeiras e relatórios.
 
 # Objetivo
-Praticar organização, visualização e análise de dados.
+Desenvolver habilidades em análise, organização e visualização de dados através de projetos práticos.
